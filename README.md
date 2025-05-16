@@ -5,8 +5,6 @@
 </p>
 
 
-
-
 <h1 align="center">Sophon Auth</h1>
 
 <p align="center">
